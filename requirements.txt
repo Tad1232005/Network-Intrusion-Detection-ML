@@ -1,0 +1,20 @@
+# Data processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Imbalanced data
+imbalanced-learn
+
+# Model saving
+joblib
+
+# Jupyter
+notebook
+ipykernel
