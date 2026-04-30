@@ -13,4 +13,5 @@ Thư mục này chứa model đã train.
 ```python
 import joblib
 model = joblib.load("models/random_forest.pkl")
+print(model)
 ```

@@ -3,6 +3,9 @@ data/*.zip
 
 # models/*.pkl
 # models/*.joblib
+models/cleaned_data.pkl
+models/balanced_data.pkl
+
 
 logs/*.log
 !logs/alerts.log
