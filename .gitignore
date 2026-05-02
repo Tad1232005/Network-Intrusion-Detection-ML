@@ -5,6 +5,7 @@ data/*.zip
 # models/*.joblib
 models/cleaned_data.pkl
 models/balanced_data.pkl
+models/processed_data.pkl
 
 
 logs/*.log

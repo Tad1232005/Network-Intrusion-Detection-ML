@@ -30,6 +30,7 @@ in real time.
 ---
 
 ## 📁 Project Structure
+```bash
 Network-Intrusion-Detection-ML/
 ├── data/               # Dataset (not included, see instructions below)
 │   └── README.md
@@ -46,6 +47,7 @@ Network-Intrusion-Detection-ML/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ Installation Guide
 
