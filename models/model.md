@@ -7,11 +7,11 @@ Thư mục này chứa model đã train.
 ## Lưu ý
 - Nếu file `.pkl` > 100MB thì vào gitignore mở ra
 
-- Tải model tại: [Google Drive link] 
+- Tải model tại: Google Drive
 
 ## Load model
 ```python
 import joblib
-model = joblib.load("models/random_forest.pkl")
+model = joblib.load("../models/random_forest_model.pkl")
 print(model)
 ```
