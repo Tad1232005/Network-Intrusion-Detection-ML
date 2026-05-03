@@ -6,6 +6,7 @@ data/*.zip
 models/cleaned_data.pkl
 models/balanced_data.pkl
 models/processed_data.pkl
+models/knn_model.pkl
 
 
 logs/*.log
