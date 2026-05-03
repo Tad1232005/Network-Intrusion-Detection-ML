@@ -154,7 +154,7 @@ git push origin le-thanh-dat
 
 | Model | Accuracy | Precision | Recall (Attack) | F1-Score |
 | :--- | :---: | :---: | :---: | :---: |
-| **Logistic Regression** | 68.00% | 94.00% | 0.00% | 77.00% |
+| **Logistic Regression** | 68.00% | 94.00% | 68.00% | 77.00% |
 | **Support Vector Machine** | 57.28% | 93.00% | 57.00% | 67.00% |
 | **Naive Bayes** | 13.094% | 94.00% | 14.00% | 18.00% |
 | **K-Nearest Neighbors** | 98.04% | 99.00% | 98.00% | 98.00% |
